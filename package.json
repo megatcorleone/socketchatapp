@@ -6,7 +6,7 @@
   "scripts": {
     "test": "dota"
   },
-  "author": "",
+  "author": "megatcorleone",
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.2",
